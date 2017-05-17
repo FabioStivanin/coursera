@@ -1,0 +1,91 @@
+ {
+			"patients": [
+				{
+					"firstname": "Mario",
+					"lastname": "Rossi",
+					"cf": "MRSRSS76432A515G",
+					"activities": [{
+						"name": "Intervento cardiochirurgico",
+						"date": "30/05/2012",
+						"macroSteps": [{
+							"name": "Pre-operatorio",
+							"compPerc": 0.5
+							}, {
+								"name": "Operatorio",
+								"compPerc": 0.85
+							}, {
+								"name": "Outcome",
+								"compPerc": 0.1
+							}, {
+								"name": "Follow-up",
+								"compPerc": 1.0
+							}
+						]
+						},
+						{
+							"name": "Follow up - TAC",
+							"date": "22/06/2014",
+							"macroSteps": [{
+								"name": "Pre-operatorio",
+								"compPerc": 0.7
+							}, {
+								"name": "Operatorio",
+								"compPerc": 0.5
+							}, {
+								"name": "Outcome",
+								"compPerc": 0.6
+							}, {
+								"name": "Follow-up",
+								"compPerc": 1.0
+							}
+							]
+						}
+					]
+				},
+				{
+					"firstname": "Mara",
+					"lastname": "Rossi",
+					"cf": "MRSRSS76432A515G",
+					"activities": [{
+						"name": "Intervento cardiochirurgico",
+						"date": "30/05/2012",
+						"macroSteps": [{
+							"name": "Pre-operatorio",
+							"compPerc": 0.5
+						}, {
+							"name": "Operatorio",
+							"compPerc": 0.85
+						}, {
+							"name": "Outcome",
+							"compPerc": 0.1
+						}, {
+							"name": "Follow-up",
+							"compPerc": 1.0
+						}]
+					}
+					]
+				}, {
+					"firstname": "Giorgio",
+					"lastname": "Mari",
+					"cf": "GRMR76432A515G",
+					"activities": [{
+						"name": "Intervento cardiochirurgico",
+						"date": "30/05/2012",
+						"macroSteps": [{
+							"name": "Pre-operatorio",
+							"compPerc": 0.5
+						}, {
+							"name": "Operatorio",
+							"compPerc": 0.85
+						}, {
+							"name": "Outcome",
+							"compPerc": 0.1
+						}, {
+							"name": "Follow-up",
+							"compPerc": 1.0
+						}]
+					}
+					]
+				}
+			]
+	}
